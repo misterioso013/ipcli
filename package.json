@@ -4,6 +4,7 @@
   "description": "IP api and cli",
   "main": "dist/index.cjs",
   "type" : "module",
+  "types": "dist/index.d.ts",
   "bin": {
     "ipcli": "dist/cli.cjs"
   },
