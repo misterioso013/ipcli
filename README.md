@@ -10,7 +10,7 @@ npm install -g @misterioso013/ipcli
 
 ### Usage
 ```sh
-ipcli
+npx ipcli
 #=> Your local IP address is: 192.168.1.101
 ```
 
