@@ -24,8 +24,8 @@ npm i @misterioso013/ipcli
 ### Usage
 ```js
 // ES6 import
-// import ip from 'ipcli';
-const ip = require('ipcli');
+// import ip from '@misterioso013/ipcli';
+const ip = require('@misterioso013/ipcli');
 
 console.log(ip()); // 192.168.1.101
 ``` 
