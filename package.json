@@ -1,6 +1,6 @@
 {
   "name": "@misterioso013/ipcli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "IP api and cli",
   "main": "dist/index.cjs",
   "type" : "module",
