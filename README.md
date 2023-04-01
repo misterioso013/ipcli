@@ -5,7 +5,7 @@ Return the public IP address of the client.
 
 ### Install
 ```sh
-npm install -g ipcli
+npm install -g @misterioso013/ipcli
 ```
 
 ### Usage
@@ -18,7 +18,7 @@ ipcli
 
 ### Install
 ```sh
-npm install ipcli
+npm i @misterioso013/ipcli
 ```
 
 ### Usage

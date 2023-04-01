@@ -1,11 +1,14 @@
 {
-  "name": "ipcli",
+  "name": "@misterioso013/ipcli",
   "version": "1.0.0",
   "description": "IP api and cli",
   "main": "dist/index.cjs",
   "type" : "module",
   "bin": {
     "ipcli": "dist/cli.cjs"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "scripts": {
     "test": "jest",
